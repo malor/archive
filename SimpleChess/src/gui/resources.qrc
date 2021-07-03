@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>data/pieces/pawn_black.svg</file>
+    <file>data/pieces/king_black.svg</file>
+    <file>data/pieces/queen_black.svg</file>
+    <file>data/pieces/rook_black.svg</file>
+    <file>data/pieces/bishop_black.svg</file>
+    <file>data/pieces/knight_black.svg</file>
+    <file>data/pieces/pawn_white.svg</file>
+    <file>data/pieces/king_white.svg</file>
+    <file>data/pieces/queen_white.svg</file>
+    <file>data/pieces/rook_white.svg</file>
+    <file>data/pieces/bishop_white.svg</file>
+    <file>data/pieces/knight_white.svg</file>
+</qresource>
+</RCC>

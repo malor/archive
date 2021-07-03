@@ -1,0 +1,4 @@
+-DQT_SHARED -I/usr/include/qt4 -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtSvg
+-I/home/malor/sandbox/SimpleChess/src/libchess
+-std=c++11
+-Wno-system-headers
