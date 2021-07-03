@@ -1,0 +1,7 @@
+language: cpp
+
+compiler:
+    - clang
+    - gcc
+
+script: mkdir build && cd build && cmake .. -DBUILD_TESTS=1 -DBUILD_TOOLS=1 -DCMAKE_BUILD_TYPE=Release && make && ./run-tests
